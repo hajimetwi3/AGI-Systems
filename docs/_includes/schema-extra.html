@@ -1,0 +1,38 @@
+{%- assign u = page.url | default: "" -%}
+
+{%- if u == "/" or u == "/index.html" -%}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "WebPage",
+      "@id": "{{ '/' | absolute_url }}#webpage",
+      "url": "{{ '/' | absolute_url }}",
+      "name": "{{ page.title | default: site.title | escape }}",
+      "description": "{{ page.excerpt | strip_html | strip_newlines | truncate: 160 | default: site.description | escape }}",
+      "mainEntity": { "@id": "https://doi.org/10.5281/zenodo.18236772" }
+    },
+    {
+      "@type": "ScholarlyArticle",
+      "@id": "https://doi.org/10.5281/zenodo.18236772",
+      "identifier": "https://doi.org/10.5281/zenodo.18236772",
+      "url": "https://doi.org/10.5281/zenodo.18236772",
+      "headline": "Design Notes on Memory, Context, Orchestration, and Self-Directed Evolution in AI and AGI Systems",
+      "image": ["{{ '/assets/images/AGI_Systems_v1.1.jpg' | absolute_url }}"],
+      "author": {
+        "@type": "Person",
+        "name": "Hajime Tsui",
+        "url": "https://x.com/hajimetwi3",
+        "sameAs": ["https://x.com/hajimetwi3"]
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "Zenodo"
+      },
+      "inLanguage": "en"
+    }
+  ]
+}
+</script>
+{%- endif -%}

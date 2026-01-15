@@ -1,5 +1,5 @@
 ---
-title: Design Notes on AGI Systems - Documentation 
+title: Design Notes on Memory, Context, Orchestration, and Self-Directed Evolution in AI and AGI Systems - Official
 ---  
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18236772.svg)](https://doi.org/10.5281/zenodo.18236772)  
 

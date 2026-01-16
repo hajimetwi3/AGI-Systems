@@ -43,6 +43,16 @@ self-directed internal updates.
 
 ---  
 
+## References  
+
+### 1. Preprint : Post Engineering for AI: Benevolent Contextual Guidance for Debiasing Large Language Models   
+Preprint (Zenodo, Concept DOI - latest version): [https://doi.org/10.5281/zenodo.17896136](https://doi.org/10.5281/zenodo.17896136)  
+  
+### 2. Essay : Hello seed (English version)  
+Preprint (Zenodo, Concept DOI - latest version): [https://doi.org/10.5281/zenodo.18089594](https://doi.org/10.5281/zenodo.18089594)  
+
+---  
+
 ## Author  
   
 Written by Hajime Tsui  

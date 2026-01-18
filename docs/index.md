@@ -20,7 +20,7 @@ Written by Hajime Tsui ([@hajimetwi3](https://x.com/hajimetwi3)) - January 2026
 ## Abstract (from the Preprint)  
 
   
-The abstract below is quoted from the preprint version 1.0.
+The abstract below is quoted from the preprint version 1.2.
 For the most up-to-date version, please refer to the Zenodo record.  
 
 
@@ -35,9 +35,9 @@ memory over long time horizons, revise their own internal structures, and coordi
 internal processes.
 
 Rather than proposing a finalized architecture or implementation, this work explores a set of
-aggressive design hypotheses, including memory maps, selective context retrieval, controlled
-and extensible orchestration, modular skill representations, multi-model utilization, and
-self-directed internal updates.
+aggressive design hypotheses, including memory maps, selective context retrieval, adaptive
+forgetting mechanisms, greed and dynamic personality, controlled and extensible orchestration,
+modular skill representations, multi-model utilization, and self-directed internal updates.
 
 ```  
 
@@ -60,6 +60,8 @@ GitHubPage: [https://hajimetwi3.github.io/hajimetwi3/](https://hajimetwi3.github
 GitHub: [https://github.com/hajimetwi3](https://github.com/hajimetwi3)  
 X (Twitter): [https://x.com/hajimetwi3](https://x.com/hajimetwi3)  
 Reddit: [https://www.reddit.com/user/hajimetwi3/](https://www.reddit.com/user/hajimetwi3/)  
+BlueSky: [https://bsky.app/profile/hajimetwi3.bsky.social](https://bsky.app/profile/hajimetwi3.bsky.social)  
+[Zenodo](https://zenodo.org/search?q=metadata.creators.person_or_org.name%3A%22Tsui%2C%20Hajime%22&l=list&p=1&s=10&sort=bestmatch)  
 
 ---  
 

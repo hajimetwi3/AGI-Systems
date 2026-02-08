@@ -20,7 +20,7 @@ Written by Hajime Tsui ([@hajimetwi3](https://x.com/hajimetwi3)) - January 2026
 ## Abstract (from the Preprint)  
 
   
-The abstract below is quoted from the preprint version 1.2.
+The abstract below is quoted from the preprint version 1.4.
 For the most up-to-date version, please refer to the Zenodo record.  
 
 

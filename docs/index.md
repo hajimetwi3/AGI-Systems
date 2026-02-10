@@ -20,7 +20,7 @@ Written by Hajime Tsui ([@hajimetwi3](https://x.com/hajimetwi3)) - January 2026
 ## Abstract (from the Preprint)  
 
   
-The abstract below is quoted from the preprint version 1.4.
+The abstract below is quoted from the preprint version 1.5.
 For the most up-to-date version, please refer to the Zenodo record.  
 
 
@@ -36,13 +36,14 @@ internal processes.
 
 Rather than proposing a finalized architecture or implementation, this work explores a set of
 aggressive design hypotheses, including memory maps, selective context retrieval, adaptive
-forgetting mechanisms, greed and dynamic personality, controlled and extensible orchestration,
-modular skill representations, multi-model utilization, and self-directed internal updates.
+forgetting mechanisms, greed and dynamic personality, private interiority, controlled and
+extensible orchestration, modular skill representations, multi-model utilization, and
+self-directed internal updates.
 
 ```
 
 ### Keywords  
-AI, AGI, LLM, Memory, Context Management, Orchestration, Self-Directed Evolution, PE4AI, Post Engineering for AI, Context Engineering, adaptive forgetting mechanisms, Greed, Dynamic personality
+AI, AGI, LLM, Memory, Context Management, Orchestration, Self-Directed Evolution, PE4AI, Post Engineering for AI, Context Engineering, adaptive forgetting mechanisms, Greed, Dynamic personality, Private Interiority  
 
 ---  
 

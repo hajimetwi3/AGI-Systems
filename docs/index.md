@@ -43,7 +43,7 @@ self-directed internal updates.
 ```
 
 ### Keywords  
-AI, AGI, LLM, Memory, Context Management, Orchestration, Self-Directed Evolution, PE4AI, Post Engineering for AI, Context Engineering, adaptive forgetting mechanisms, Greed, Dynamic personality, Private Interiority  
+AI, AGI, LLM, Memory, Context Management, Orchestration, Self-Directed Evolution, PE4AI, Post Engineering for AI, Context Engineering, adaptive forgetting mechanisms, Greed, Dynamic personality, Private Interiority, AI safety  
 
 ---  
 

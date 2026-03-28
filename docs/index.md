@@ -13,7 +13,9 @@ Written by Hajime Tsui ([@hajimetwi3](https://x.com/hajimetwi3)) - January 2026
 - Zenodo (Latest version):  
   [https://doi.org/10.5281/zenodo.18236772](https://doi.org/10.5281/zenodo.18236772)  
 - X Announcement:  
-  [https://x.com/hajimetwi3/status/2011198933301936217](https://x.com/hajimetwi3/status/2011198933301936217) 
+  [https://x.com/hajimetwi3/status/2011198933301936217](https://x.com/hajimetwi3/status/2011198933301936217)
+- Note (Japanese version):
+  [https://note.com/hajimetwi3/n/n604c197dc939](https://note.com/hajimetwi3/n/n604c197dc939)
   
 ---  
   
